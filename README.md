@@ -5,7 +5,7 @@
 [![Anti 996](https://img.shields.io/badge/Anti-996-red.svg)](https://996.icu/)
 ![内卷: 6127](https://img.shields.io/badge/内卷-6127-yellow.svg)
   
-![谨防: 羊群](https://img.shields.io/badge/谨防-羊群-red.svg)
+![🐏状态](https://img.shields.io/badge/🐏%20？-疑似，观察中-red.svg)
   
 ![Main Languages: TypeScript & JavaScript](https://img.shields.io/badge/Main%20Language-TypeScript%20&%20JavaScript-blue.svg)
 ![Also in: PHP C#](https://img.shields.io/badge/Also%20in-PHP%20C%23-green.svg)
