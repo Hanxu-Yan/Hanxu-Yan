@@ -12,13 +12,13 @@
 
 ![Everyehere: @ljm12914](https://img.shields.io/badge/Everywhere%20@ljm12914-blue?style=flat-square)
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ljm12914)
+![visitors](https://views.whatilearened.today/views/github/ljm12914/views.svg)
 </div>
 
 GPG Key ID: `6B8C3489FEFB96D2`
 
-<!--[![Github Stats(Dark)](https://github-readme-stats.vercel.app/api?username=ljm12914&count_private=true&show_icons=true&theme=dark&hide=contribs#gh-dark-mode-only)](https://github.com/ljm12914)-->
-<!--[![Github Stats(Light)](https://github-readme-stats.vercel.app/api?username=ljm12914&count_private=true&show_icons=true&hide=contribs#gh-light-mode-only)](https://github.com/ljm12914)-->
+[![Github Stats(Dark)](https://github-readme-stats.vercel.app/api?username=ljm12914&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide=contribs#gh-dark-mode-only)](https://github.com/ljm12914)
+<!--[![Github Stats(Light)](https://github-readme-stats.vercel.app/api?username=ljm12914&include_all_commits=true&count_private=true&show_icons=true&hide=contribs#gh-light-mode-only)](https://github.com/ljm12914)-->
 
 # 目前正在做的项目有
 
