@@ -3,12 +3,14 @@
 <div align="center">
 
 [![Anti 996](https://img.shields.io/badge/Anti-996-red.svg)](https://996.icu/)
+
+[![F**k You! GD Gaokao](https://img.shields.io/badge/F**k%20You!-GD%20Gaokao-green.svg)](https://pg.eeagd.edu.cn/ks/h5/index.html#/xgk/ggxx)
 <!--![内卷: 6127](https://img.shields.io/badge/内卷-6127-yellow.svg)-->
   
 ![Main Languages: TypeScript & JavaScript](https://img.shields.io/badge/Main%20Language-TypeScript%20&%20JavaScript-blue.svg)
-![Also in: PHP C#](https://img.shields.io/badge/Also%20in-PHP%20C%23-green.svg)
+![Also in: Python PHP C#](https://img.shields.io/badge/Also%20in-Python%20PHP%20C%23-green.svg)
 
-![Everyehere: @ljm12914](https://img.shields.io/badge/Everywhere%20@ljm12914-blue?style=flat-square)
+![Everyehere: @LJM12914](https://img.shields.io/badge/Everywhere%20@LJM12914-blue?style=flat-square)
   
 ![visitors](https://views.whatilearened.today/views/github/ljm12914/views.svg)
 </div>
