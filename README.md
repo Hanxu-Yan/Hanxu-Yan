@@ -7,8 +7,9 @@
 [![6 GD Gaokao](https://img.shields.io/badge/6-GD%20Gaokao-green.svg)](https://pg.eeagd.edu.cn/ks/h5/index.html#/xgk/ggxx)
 <!--![内卷: 6127](https://img.shields.io/badge/内卷-6127-yellow.svg)-->
   
-![Main Languages: TypeScript & JavaScript](https://img.shields.io/badge/Main%20Language-TypeScript%20&%20JavaScript-blue.svg)
-![Learning: C艹](https://img.shields.io/badge/Learning-C艹-red.svg)
+![Main Language: TypeScript](https://img.shields.io/badge/Main%20Language-TypeScript-blue.svg)
+![Main Language: C艹](https://img.shields.io/badge/Main%20Language-C艹-green.svg)
+![Learning: （](https://img.shields.io/badge/Learning-（-red.svg)
 ![Also in: Python](https://img.shields.io/badge/Also%20in-Python%20PHP%20C%23-green.svg)
 
 ![Everyehere: @LJM12914](https://img.shields.io/badge/Everywhere%20@LJM12914-blue?style=flat-square)
