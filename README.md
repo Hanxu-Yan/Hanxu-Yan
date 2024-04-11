@@ -1,7 +1,14 @@
 <h1 align="center">LJM12914</h1>
 <br />
-<div align="center">
 <p align="center">Just Preparing for changing my major.</p>
+
+评委您好！请查看我的[个人账户中的仓库](https://github.com/ljm12914?tab=repositories)，或进入任一我的组织账户：
+
+- [Openink](https://github.com/openink)
+- [WheelsMake](https://github.com/wheelsmake)
+- [jmArchive](https://github.com/jmarchive)
+- [Effi Work](https://github.com/effiwork)
+<div align="center">
 <!--
 [![Anti 996](https://img.shields.io/badge/Anti-996-red.svg)](https://996.icu/)
 
