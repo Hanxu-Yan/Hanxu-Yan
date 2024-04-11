@@ -8,6 +8,9 @@
 - [WheelsMake](https://github.com/wheelsmake)
 - [jmArchive](https://github.com/jmarchive)
 - [Effi Work](https://github.com/effiwork)
+
+下方 `Pinned Repositories` 列出了六个精选仓库。
+
 <div align="center">
 <!--
 [![Anti 996](https://img.shields.io/badge/Anti-996-red.svg)](https://996.icu/)
