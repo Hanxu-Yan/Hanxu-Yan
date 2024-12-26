@@ -9,7 +9,7 @@ I'm a/an...
 - C++ memory leaker & compiler-oriented programmer
 - Open-source enthusiast
 
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ljm12914&layout=compact&hide=Batchfile,PHP&langs_count=5&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" />
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ljm12914&layout=compact&hide=Batchfile,PHP,C&langs_count=5&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" />
   
 ![Main Language: TypeScript](https://img.shields.io/badge/Main%20Language-TypeScript-blue.svg)&emsp;
 ![Main Language: JavaScript](https://img.shields.io/badge/Main%20Language-JavaScript-blue.svg)
