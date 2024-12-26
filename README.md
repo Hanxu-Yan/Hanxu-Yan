@@ -19,6 +19,9 @@
 GPG Key ID: `6B8C3489FEFB96D2`
 
 [![Github Stats(Dark)](https://github-readme-stats.vercel.app/api?username=ljm12914&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide=contribs#gh-dark-mode-only)](https://github.com/ljm12914)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ljm12914&show_icons=true&locale=en&layout=donut")](https://github.com/ljm12914)
+
 <!--[![Github Stats(Light)](https://github-readme-stats.vercel.app/api?username=ljm12914&include_all_commits=true&count_private=true&show_icons=true&hide=contribs#gh-light-mode-only)](https://github.com/ljm12914)-->
 
 ![咕](https://user-images.githubusercontent.com/29831474/229271425-c9d05a68-6fc7-47eb-ad34-18d22bb04c4b.jpg)
