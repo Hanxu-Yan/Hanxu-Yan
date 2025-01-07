@@ -12,7 +12,7 @@ I'm a/an...
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ljm12914&layout=compact&hide=Batchfile,PHP,C&langs_count=5&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" />
   
 ![Main Language: TypeScript](https://img.shields.io/badge/Main%20Language-TypeScript-blue.svg)&emsp;
-![Main Language: JavaScript](https://img.shields.io/badge/Main%20Language-JavaScript-blue.svg)
+![Main Language: JavaScript](https://img.shields.io/badge/Main%20Language-JavaScript-yellow.svg)
 
 ![Main Language: C++](https://img.shields.io/badge/Main%20Language-C++-purple.svg)&emsp;
 ![Learning: C](https://img.shields.io/badge/Learning-C-red.svg)&emsp;
