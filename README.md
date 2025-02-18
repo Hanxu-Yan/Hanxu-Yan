@@ -7,7 +7,7 @@ I'm a/an...
 - Undergraduate at Sichuan University, China
 - Frontend noob who like reinventing wheels
 - C++ memory leaker & compiler-oriented programmer
-- Open-source enthusiast
+- "Open source" enthusiast but have strong opposition to unrewarded commercial use of the giants
 
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ljm12914&layout=compact&hide=Batchfile,PHP,C&langs_count=5&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" />
 
@@ -45,6 +45,8 @@ I'm a/an...
 
 ![Everywhere: @LJM12914](https://img.shields.io/badge/Everywhere%20@LJM12914-blue?style=flat-square)&emsp;
 ![Visitors Counter](https://views.whatilearened.today/views/github/ljm12914/views.svg)
+
+**It's a shame of open source to allow unrewarded commercial use.**
 
 Open source at [Openink](https://github.com/openink), [CherryGrove](https://github.com/cherry-grove), [AboveBedrock SMP](https://github.com/abovebedrock) and [SCU Feiyang Club](https://github.com/fyscu)!
 
