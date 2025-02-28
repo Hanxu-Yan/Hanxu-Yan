@@ -7,7 +7,7 @@ I'm a/an...
 - Undergraduate at Sichuan University, China
 - Frontend noob who like reinventing wheels
 - C++ memory leaker & compiler-oriented programmer
-- "Open source" enthusiast but have strong opposition to unrewarded commercial use of the giants
+- "Open source" enthusiast
 
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ljm12914&layout=compact&hide=Batchfile,PHP,C&langs_count=5&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" />
 
