@@ -5,7 +5,7 @@
 I'm a/an...
 
 - Undergraduate at Sichuan University, China
-- AI4DB Researchers
+- AI4DB Researcher
 - Open source enthusiast
 
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Hanxu-Yan&layout=compact&hide=Batchfile,PHP,Cmake&langs_count=5&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" />
@@ -30,6 +30,7 @@ I'm a/an...
 </p>
 
 ![Visitors Counter](https://views.whatilearened.today/views/github/Hanxu-Yan/views.svg)
+
 
 
 
