@@ -1,8 +1,7 @@
 <img align="right" src="https://hanxu-yan.vercel.app/api?username=Hanxu-Yan&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
+
 ### Hanxu-Yan
-
 I'm a/an...
-
 - Undergraduate at Sichuan University, China
 - AI4DB Researcher
 - Open source enthusiast
@@ -10,7 +9,6 @@ I'm a/an...
 <img align="right" src="https://hanxu-yan.vercel.app/api/top-langs/?username=Hanxu-Yan&layout=compact&hide=Batchfile,PHP,Cmake&langs_count=5&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 
 ### Tech Stack
-
 <p>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -29,7 +27,3 @@ I'm a/an...
 </p>
 
 ![Visitors Counter](https://views.whatilearened.today/views/github/Hanxu-Yan/views.svg)
-
-
-
-
