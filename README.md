@@ -1,13 +1,10 @@
-<img align="right" src="https://hanxu-yan.vercel.app/api?username=Hanxu-Yan&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-
+<img align="right" src="https://hanxu-yan.vercel.app/api?username=Hanxu-Yan&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="Github Stats" />
 ### Hanxu-Yan
 I'm a/an...
 - Undergraduate at Sichuan University, China
 - AI4DB Researcher
 - Open source enthusiast
-
-<img align="right" src="https://hanxu-yan.vercel.app/api/top-langs/?username=Hanxu-Yan&layout=compact&hide=Batchfile,PHP,Cmake&langs_count=5&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
-
+<img align="right" src="https://hanxu-yan.vercel.app/api?username=Hanxu-Yan&layout=compact&hide=Batchfile,PHP,Cmake&langs_count=5&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" />
 ### Tech Stack
 <p>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -25,5 +22,4 @@ I'm a/an...
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </p>
-
 ![Visitors Counter](https://views.whatilearened.today/views/github/Hanxu-Yan/views.svg)
