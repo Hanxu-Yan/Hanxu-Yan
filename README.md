@@ -1,5 +1,4 @@
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Hanxu-Yan&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-
+<img align="right" src="https://hanxu-36zz6nxe6-1079984824s-projects.vercel.app/api?username=Hanxu-Yan&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
 ### Hanxu-Yan
 
 I'm a/an...
@@ -8,7 +7,7 @@ I'm a/an...
 - AI4DB Researcher
 - Open source enthusiast
 
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Hanxu-Yan&layout=compact&hide=Batchfile,PHP,Cmake&langs_count=5&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" />
+<img align="right" src="https://hanxu-36zz6nxe6-1079984824s-projects.vercel.app/api/top-langs/?username=Hanxu-Yan&layout=compact&hide=Batchfile,PHP,Cmake&langs_count=5&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" />
 
 ### Tech Stack
 
