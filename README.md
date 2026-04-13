@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=Hanxu-Yan&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="Github Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Hanxu-Yan&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
 
 ### Hanxu-Yan
 
