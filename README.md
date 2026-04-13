@@ -6,11 +6,8 @@ I'm a/an...
 - Open source enthusiast
 
 <p align="center">
-  <img src="https://hanxu-yan.vercel.app/api?username=Hanxu-Yan&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="Github Stats" />
-</p>
-
-<p align="center">
-  <img src="https://hanxu-yan.vercel.app/api?username=Hanxu-Yan&layout=compact&hide=Batchfile,PHP,Cmake&langs_count=5&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" />
+  <img src="https://hanxu-yan.vercel.app/api?username=Hanxu-Yan&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="Github Stats" width="49%" />
+  <img src="https://hanxu-yan.vercel.app/api?username=Hanxu-Yan&layout=compact&hide=Batchfile,PHP,Cmake&langs_count=5&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Languages" width="37%" />
 </p>
 
 ### Tech Stack
